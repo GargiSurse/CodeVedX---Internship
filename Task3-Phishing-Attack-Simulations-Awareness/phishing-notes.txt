@@ -1,0 +1,14 @@
+1. Phishing is a cyberattack used to steal information.
+
+2. Attackers pretend to be trusted organizations.
+
+3. Common targets:
+   - Passwords
+   - Banking information
+   - Personal data
+
+4. Types:
+   - Email phishing
+   - Spear phishing
+   - Smishing
+   - Vishing
